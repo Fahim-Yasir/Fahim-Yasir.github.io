@@ -1,0 +1,21 @@
+{
+  "basics": {
+    "name": "Fahim Yasir",
+    "label": "MS Student",
+    "picture": "img/FahimYasirSquare.JPG",
+    "email": "fyasir@hawaii.edu",
+    "phone": "808-493-3046",
+    "website": "https://fahim-yasir.github.io/",
+    "summary": "I am a graduate student in Electrical & Computer Engineering majoring in System & Data Science.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "HI" },
+    "profiles": [
+      { "network": "github", "username": "Fahim-Yasir", "url": "https://github.com/Fahim-Yasir" },
+      { "network": "linkedin", "username": "Fahim Yasir", "url": "https://www.linkedin.com/in/fyasir97/" }
+    ]
+  },
+  "interests": [
+    { "name": "Technology" },
+    { "name": "Sports" },
+    { "name": "Data" }
+  ]
+}
